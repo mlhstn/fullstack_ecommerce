@@ -1,6 +1,6 @@
 
 # fullstack_ecommerce
-=======
+
 🚀 About the Project
 
 This project is designed to develop a modern e-commerce platform. Users can browse products, add them to their carts, and securely complete their purchases.
