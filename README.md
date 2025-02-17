@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # fullstack_ecommerce
 =======
 🚀 About the Project
@@ -23,4 +23,4 @@ Database: MySQL
 🔐 User authentication (JWT-based Authentication & Authorization)
 
 🛍 Order management (view past orders, track orders)
->>>>>>> 017d975d8ad295571cae1210585bc15ffa27520f
+
