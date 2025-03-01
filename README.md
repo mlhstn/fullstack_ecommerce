@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # fullstack_ecommerce
-=======
+
 🚀 About the Project
 
 This project is designed to develop a modern e-commerce platform. Users can browse products, add them to their carts, and securely complete their purchases.
@@ -23,4 +23,4 @@ Database: MySQL
 🔐 User authentication (JWT-based Authentication & Authorization)
 
 🛍 Order management (view past orders, track orders)
->>>>>>> 017d975d8ad295571cae1210585bc15ffa27520f
+
